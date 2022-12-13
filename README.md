@@ -26,5 +26,5 @@ If you are a student studying in SoC, NUS, I wish you can help me to improve thi
 
 ## License
 
-This project is under the [MIT License](https://github.com/Hyperzsb/nus-cs/tree/master/LICENSE).
+This project is under the [MIT License](https://github.com/Hyperzsb/nus-cs/tree/main/LICENSE).
 
